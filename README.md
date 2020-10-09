@@ -5,6 +5,7 @@
 [![Code Style](https://img.shields.io/badge/code%20style-allman-yellowgreen.svg?style=flat)](https://en.wikipedia.org/wiki/Indent_style#Allman_style)
 [![License](https://img.shields.io/badge/license-MPLv2-yellowgreen.svg?style=flat)](https://github.com/typhonjs-backbone/backbone-es6/blob/master/LICENSE)
 [![Gitter](https://img.shields.io/gitter/room/typhonjs/TyphonJS.svg)](https://gitter.im/typhonjs/TyphonJS)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fstephanbit%2Fbackbone-es6.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fstephanbit%2Fbackbone-es6?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/typhonjs-backbone/backbone-es6.svg?branch=master)](https://travis-ci.org/typhonjs-backbone/backbone-es6)
 [![Dependency Status](https://www.versioneye.com/user/projects/56eb95004e714c003625c72a/badge.svg?style=flat)](https://www.versioneye.com/user/projects/56eb95004e714c003625c72a)
@@ -40,3 +41,7 @@ Backbone (c) 2010-2015 Jeremy Ashkenas, DocumentCloud and Investigative Reporter
 backbone-es6 (c) 2015-present Michael Leahy, TyphonRT Inc. 
 
 backbone-es6 may be freely distributed under the MPL v2.0 license.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fstephanbit%2Fbackbone-es6.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fstephanbit%2Fbackbone-es6?ref=badge_large)
